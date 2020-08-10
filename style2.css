@@ -1,0 +1,14 @@
+body,
+html {
+	height: 100%;
+	width: 100%;
+}
+.nav {
+	border-radius: 0px;
+}
+.navbar {
+
+	height: cover;
+	box-shadow: 4px 4px 5px #888888;
+
+}
